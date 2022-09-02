@@ -2,7 +2,9 @@
 
 # Java Miscellaneous
 
-- github: /Users/chrisperey/Documents/java/java-miscellaneous
+
+- github: https://github.com/chrisdevsandapps/Java-miscellaneous1
+
 
 - directory: /Users/hahaha/Documents/java/java-miscellaneous
 
