@@ -2,7 +2,11 @@
 derekBanas playlist: https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19
 
 
+### NOTE
+1. pass muna sa lesson03 - conditionals
 
+1. and lesson)4 - loops
+1. 
 
 
 

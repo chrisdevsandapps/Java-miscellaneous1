@@ -1,6 +1,7 @@
 
 
 public class App {
+    
     static String randomString = "this is a string hahaha!";
 
     static final double PiValue = 3.141529;
@@ -10,6 +11,9 @@ public class App {
         System.out.println("###############################################");
     }
     public static void main(String[] args) throws Exception {
+        
+        System.out.println("LESSON 01");
+
         System.out.println("Hello, World!");
 
         System.out.println(randomString);
